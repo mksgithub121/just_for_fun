@@ -1,0 +1,30 @@
+#demo {
+  font-family: 'Indie Flower', cursive;
+  font-size: 100px;
+}
+
+#demo .span1 {
+  color: #9a5aee;
+}
+
+#demo .span2 {
+  color: red;
+}
+
+#demo .span3 {
+  color: blue;
+}
+
+button {
+  display: block;
+  margin-top: 100px;
+  padding: 10px;
+  color: gray;
+  border: 5px solid red;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+  color: #fd0ab4;
+}
